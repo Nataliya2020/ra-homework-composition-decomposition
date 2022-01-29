@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ra-homework-composition-decomposition/static/css/main.b5b80004.css",
+    "main.js": "/ra-homework-composition-decomposition/static/js/main.375e417a.js",
+    "static/js/787.d0241e51.chunk.js": "/ra-homework-composition-decomposition/static/js/787.d0241e51.chunk.js",
+    "static/media/avatar.jpg": "/ra-homework-composition-decomposition/static/media/avatar.736547ba0773eff03070.jpg",
+    "static/media/banner.jpg": "/ra-homework-composition-decomposition/static/media/banner.35f9322f807a59ae7f06.jpg",
+    "static/media/world.png": "/ra-homework-composition-decomposition/static/media/world.4c8e0655b08c4e083643.png",
+    "static/media/weather.png": "/ra-homework-composition-decomposition/static/media/weather.b9e63542d4cd23bae828.png",
+    "index.html": "/ra-homework-composition-decomposition/index.html",
+    "main.b5b80004.css.map": "/ra-homework-composition-decomposition/static/css/main.b5b80004.css.map",
+    "main.375e417a.js.map": "/ra-homework-composition-decomposition/static/js/main.375e417a.js.map",
+    "787.d0241e51.chunk.js.map": "/ra-homework-composition-decomposition/static/js/787.d0241e51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5b80004.css",
+    "static/js/main.375e417a.js"
+  ]
+}
