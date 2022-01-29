@@ -1,0 +1,4 @@
+icon marker - https://findicons.com/icon/85669/world;
+icon weather - https://findicons.com/icon/44359/cloudy_daytime;
+icon television - https://findicons.com/icon/178402/television;
+avatar, banner  - https://www.pexels.com/
